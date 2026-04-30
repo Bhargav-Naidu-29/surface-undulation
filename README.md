@@ -202,7 +202,6 @@ This work is informed by several key studies demonstrating the power of laser te
 | Luo et al. (2010) [7] | Stainless steel | KrF excimer (248 nm) | 68.5° → 130° | Groove pattern geometry (b/a ratio) directly controls WCA via Cassie–Baxter model |
 | Zorba et al. (2006) [8] | Si | Ti:sapphire femtosecond | 66° → > 130° | Two-lengthscale micro/nano patterning; no coating required |
 
-**Common theme:** Laser texturing creates surface microstructures that entrap air beneath water droplets (Cassie–Baxter state), dramatically amplifying apparent contact angles beyond what surface chemistry alone could achieve.
 
 ---
 
