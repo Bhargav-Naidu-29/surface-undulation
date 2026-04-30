@@ -175,10 +175,9 @@ The laser is mounted **externally** to the chamber, which allows a wide dynamic 
 
 | Sample | Ra (nm) | Rms (nm) |
 |--------|---------|----------|
-| Bare STO(001) | [x] | [x] |
-| Laser-irradiated STO | [y] | [y] |
+| Bare STO(001) | 0.378 | 0.232 |
+| Laser-irradiated STO | 11.68 | 3.156 |
 
-> *(Quantitative values to be updated with final measurement data)*
 
 ### Wettability
 
@@ -187,7 +186,6 @@ The laser is mounted **externally** to the chamber, which allows a wide dynamic 
 | Bare STO(001) | [X] | — |
 | Laser-irradiated STO | [Y] | — |
 
-> *(Quantitative WCA values to be updated with final measurement data)*
 
 ---
 
